@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.card{
+    height: auto;
+    width: 400px;
+    border-right: 2px black solid;
+    border-bottom: 2px black solid;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 4%;
+}
+.inside{
+    padding: 25px;
+}
+.red{
+    background-color: rgb(243, 50, 50);
+}
+.blue{
+    background-color: rgb(85, 85, 235);
+}
+.header{
+    background-color: blue;
+    height: 40px;
+}
+.header span{
+    color: white;
+    margin-top: -5%;
+    margin-right: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+}
+input{
+    border: 1px solid gray;
+    width: 100%;
+    height: 25px;
+    margin-bottom: 3%;
+    padding: 5px;
+}
+button{
+    width: 102%;
+    height: 38px;
+    padding: 2px;
+    border-radius: 8px;
+    color: white;
+    box-shadow: 0 0 0 white;
+}
+.links{
+    margin-top: 3%;
+}
+.links a{
+    font-size: 0.9rem;
+    text-decoration: none;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.or{
+    margin-top: 18%;
+    color: gray;
+    text-align: center;
+}
+.btn button {
+    font-family: serif;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
